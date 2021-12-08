@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sunshuo/Desktop/workingspace/c_source/untitled/main.cpp
+iostream
+-
+openssl/evp.h
+/home/sunshuo/Desktop/workingspace/c_source/untitled/openssl/evp.h
+openssl/ts.h
+/home/sunshuo/Desktop/workingspace/c_source/untitled/openssl/ts.h
+
